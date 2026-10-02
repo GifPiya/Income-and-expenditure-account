@@ -54,7 +54,7 @@ footer{position:fixed;bottom:0;left:0;right:0;background:white;border-top:1px so
 <body>
 <div class="app">
 <header>
-  <h1>🧾 บัญชีร้านขายของชำ</h1>
+  <h1>🧾 บัญชีร้าน</h1>
   <p>รายรับ • รายจ่าย • สินค้าเข้า • สินค้าออก • สต๊อก</p>
 </header>
 
